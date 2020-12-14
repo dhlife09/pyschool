@@ -1,3 +1,5 @@
+# 교 175p 1번
+
 def odd_even(num):
     if (num%2 == 0):  # 기호
         return '짝수'
