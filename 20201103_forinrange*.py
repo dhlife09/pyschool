@@ -24,7 +24,7 @@ print('최종 점수: ', total)
 
 sum = 0
 
-for i in range(1, 101, 1):
+for i in range(1, 101, 1):  # 1부터 100까지 1씩 증가
     print(i)
     sum = sum + i
 print('합계: ', sum)
