@@ -1,3 +1,7 @@
+'''
+
+'''
+
 for i in range(10): # -> 0부터 9까지 10번 반복
     globals()['househap{}'.format(i)] = []
 
